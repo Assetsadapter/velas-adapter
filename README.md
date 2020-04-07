@@ -9,8 +9,8 @@ openwtester包下的测试用例已经集成了openwallet钱包体系，创建co
 ```ini
 
 # node api url
-serverAPI = "http://127.0.0.1:8088"
-FixFees = "0.001"
+serverAPI = "http://127.0.0.1:1005"
+
 ```
 
 ## 资料介绍
