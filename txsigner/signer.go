@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/assetsadapterstore/velas-adapter/crypto"
+	"github.com/Assetsadapter/velas-adapter/crypto"
 	owcrypt "github.com/blocktree/go-owcrypt"
 )
 

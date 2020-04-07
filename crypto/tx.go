@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/assetsadapterstore/velas-adapter/crypto/helpers"
+	"github.com/Assetsadapter/velas-adapter/crypto/helpers"
 	"github.com/btcsuite/btcutil/base58"
 	"github.com/go-errors/errors"
 )

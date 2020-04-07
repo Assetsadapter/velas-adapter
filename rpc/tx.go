@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/assetsadapterstore/velas-adapter/crypto"
+	"github.com/Assetsadapter/velas-adapter/crypto"
 	"github.com/go-errors/errors"
 	"gopkg.in/resty.v1"
 )

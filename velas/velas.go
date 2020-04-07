@@ -16,7 +16,7 @@
 package velas
 
 import (
-	"github.com/assetsadapterstore/velas-adapter/rpc"
+	"github.com/Assetsadapter/velas-adapter/rpc"
 	"github.com/astaxie/beego/config"
 	"github.com/blocktree/openwallet/log"
 	"github.com/blocktree/openwallet/openwallet"

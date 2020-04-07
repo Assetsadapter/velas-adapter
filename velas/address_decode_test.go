@@ -19,7 +19,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/assetsadapterstore/velas-adapter/addrdec"
+	"github.com/Assetsadapter/velas-adapter/addrdec"
 )
 
 func TestAddressDecoder_AddressEncode(t *testing.T) {

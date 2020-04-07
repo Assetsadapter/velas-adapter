@@ -18,7 +18,7 @@ package velas
 import (
 	"fmt"
 
-	"github.com/assetsadapterstore/velas-adapter/addrdec"
+	"github.com/Assetsadapter/velas-adapter/addrdec"
 )
 
 type AddressDecoder struct {

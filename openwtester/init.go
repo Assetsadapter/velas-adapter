@@ -1,7 +1,7 @@
 package openwtester
 
 import (
-	"github.com/assetsadapterstore/velas-adapter/velas"
+	"github.com/Assetsadapter/velas-adapter/velas"
 	"github.com/blocktree/openwallet/log"
 	"github.com/blocktree/openwallet/openw"
 )

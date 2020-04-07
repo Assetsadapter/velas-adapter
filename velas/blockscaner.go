@@ -21,9 +21,9 @@ import (
 	"path/filepath"
 	"time"
 
+	"github.com/Assetsadapter/velas-adapter/crypto"
+	"github.com/Assetsadapter/velas-adapter/rpc"
 	"github.com/asdine/storm"
-	"github.com/assetsadapterstore/velas-adapter/crypto"
-	"github.com/assetsadapterstore/velas-adapter/rpc"
 	"github.com/blocktree/openwallet/common"
 	"github.com/blocktree/openwallet/openwallet"
 	"github.com/btcsuite/btcutil/base58"

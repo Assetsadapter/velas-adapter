@@ -24,8 +24,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/assetsadapterstore/velas-adapter/crypto"
-	"github.com/assetsadapterstore/velas-adapter/txsigner"
+	"github.com/Assetsadapter/velas-adapter/crypto"
+	"github.com/Assetsadapter/velas-adapter/txsigner"
 	"github.com/blocktree/openwallet/common"
 	"github.com/blocktree/openwallet/openwallet"
 	"github.com/shopspring/decimal"

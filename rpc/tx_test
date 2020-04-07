@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/assetsadapterstore/velas-adapter/crypto"
+	"github.com/Assetsadapter/velas-adapter/crypto"
 )
 
 func TestTx_GetListByAddress(t *testing.T) {

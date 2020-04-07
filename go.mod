@@ -1,4 +1,4 @@
-module github.com/assetsadapterstore/velas-adapter
+module github.com/Assetsadapter/velas-adapter
 
 go 1.12
 

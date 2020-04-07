@@ -3,7 +3,7 @@ package rpc
 import (
 	"encoding/json"
 
-	"github.com/assetsadapterstore/velas-adapter/rpc/response"
+	"github.com/Assetsadapter/velas-adapter/rpc/response"
 
 	"github.com/go-errors/errors"
 	"gopkg.in/resty.v1"
